@@ -18,6 +18,7 @@ This project involved the develpment and documentaion of an incident response pr
 - [LoanDepot Challenge Prompts](https://github.com/Tfields2/Nist_CSF_2.0_Incident_Response_Cantaloupe-Inc./blob/c602c249c30183e8292e198e2dc21a424748fc62/Loandepot_Challenge_Prompt.pdf)
 - [Formal Incident Response Documentation](https://github.com/Tfields2/Nist_CSF_2.0_Incident_Response_Cantaloupe-Inc./blob/5035d930e3192260171caa4c34644f31fdbc7599/Loandepot_ResponsePlan.pdf)
 - [LoanDepot Links](https://github.com/Tfields2/Nist_CSF_2.0_Incident_Response_Cantaloupe-Inc./blob/c602c249c30183e8292e198e2dc21a424748fc62/Loan%20Depot%20Links.pdf)
+- [Response Plan Slide Deck](https://github.com/Tfields2/Nist_CSF_2.0_Incident_Response_Cantaloupe-Inc./blob/a9519c4ac97c4f4adda8692399d2fa92427c4619/Loan%20depot%20response%20plan%20slide%20deck.pdf)
 
 ## Key Contributions
 - Defined roles, escalation paths, and communication workflows
