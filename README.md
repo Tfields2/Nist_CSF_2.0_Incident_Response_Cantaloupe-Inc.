@@ -33,5 +33,5 @@ This project involved the develpment and documentaion of an incident response pr
 
 
 ## Disclaimer
-This material is intended solely for educational and portfolio demonstration purposes. Any resemblance to real organizations or incidents is generalized and non-attributable. The content does not disclose sensitive operational details, confidential information, or proprietary processes.
+> This material is intended solely for educational and portfolio demonstration purposes. Any resemblance to real organizations or incidents is generalized and non-attributable. The content does not disclose sensitive operational details, confidential information, or proprietary processes.
 
