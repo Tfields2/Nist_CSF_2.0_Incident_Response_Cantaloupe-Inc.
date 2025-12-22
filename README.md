@@ -1,7 +1,7 @@
 # NIST CSF 2.0 Incident Response Cantaloupe Inc.
 
 ## Overview
-This project involved the develpment and documentaion of an incident response program aligned with the NIST CSF 2.0 for Cantaloupe Inc. services environment. The work focused on establishing a structured, compliance aware approach to incident identification, containment, remediation, recovery, and continuos improvement, and was formally presented to a cybersecurity board for evaluation. 
+This project involved the develpment and documentation of an incident response program aligned with the NIST CSF 2.0 for Cantaloupe Inc. services environment. The work focused on establishing a structured, compliance aware approach to incident identification, containment, remediation, recovery, and continuos improvement, and was formally presented to a cybersecurity board for evaluation. 
 
 ## Scope
 - Financial services environment
